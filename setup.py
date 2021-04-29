@@ -5,8 +5,7 @@ setup(
     version='0.0.0.1',
     packages=[
         'pytest',
-        'flake8',
-        'Flask'
+        'flake8'
     ],
     url='',
     license='',

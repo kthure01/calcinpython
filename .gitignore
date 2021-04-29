@@ -147,7 +147,6 @@ dmypy.json
 ### VirtualEnv ###
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
-.Python
 [Bb]in
 [Ii]nclude
 [Ll]ib
@@ -155,7 +154,6 @@ dmypy.json
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-.venv
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/virtualenv
@@ -166,11 +164,5 @@ gitignore.io help:
 # Edit at https://www.toptal.com/developers/gitignore?templates=vscode
 
 ### vscode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode
